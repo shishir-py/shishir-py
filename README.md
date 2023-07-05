@@ -1,12 +1,14 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+it's+me+shishir+pandey;I+am+quick+learner+nice+to+meet+you)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+it's+me+Tara+Prasad+Pandey;I+am+quick+learner+nice+to+meet+you)](https://git.io/typing-svg)
+ 
+  - machine learning intern (Binary logic pvt ltd) 
+  - junior machine learning Enginner (Binary logic pvt ltd) 
 
 ## 🌱 I’m currently learning 
   -  DataScience 
   -  machine learning
 
-<h2> Hi, I'm shishir pandey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Tara Prasad Pandey! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="230">
 <p><em>Information Technology at <a href="https://pu.edu.np/">Pokhara University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br>
